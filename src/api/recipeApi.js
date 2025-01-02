@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const API_KEY = 'ae370b9a84d849bdb62404b3ea6956bb';
+// const API_KEY = 'ZZZae370b9a84d849bdb62404b3ea6956bb';
+const API_KEY = '';
 const BASE_URL = 'https://api.spoonacular.com/recipes';
 
 export const searchRecipes = async (ingredients) => {
